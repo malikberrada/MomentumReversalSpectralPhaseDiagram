@@ -1,0 +1,23 @@
+{
+  "status": "V10_V4_CONFIRMATORY_VALIDATION",
+  "design_audit_pass": true,
+  "raw_hc_identified": true,
+  "market_residual_hc_identified": true,
+  "mode_hc": {
+    "market_residual": 96,
+    "raw": 147
+  },
+  "consensus": {
+    "identified": true,
+    "hc_grid": 147,
+    "mode_hc": {
+      "market_residual": 96,
+      "raw": 147
+    }
+  },
+  "localization_gate": null,
+  "overall_confirmatory_pass": true,
+  "interpretation": "CONFIRMED",
+  "protocol_sha256": "c57c1a21a7da9d7cbbb6ec2bcb93a08194874ee8de9899f06b4b351f0f6107f4",
+  "guardrail": "The v10 primary endpoint tests cross-market existence of the persistent robust reversal tail. Market-specific h_c is estimated OOS and is not forced to match US or UK development locations."
+}

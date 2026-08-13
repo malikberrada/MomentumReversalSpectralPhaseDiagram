@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# MRSPD generated data / runs
+data/cache/*
+!data/cache/.gitkeep
+runs/*
+!runs/.gitkeep
+*.pkl
+*.pkl.gz
+panel.csv.gz
+
+# Native builds
+native/build/
+native/dist/
+native/*.egg-info/
+*.obj
+*.o
+*.pyd
+*.so
+*.dll
+*.lib
+*.exp
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups / patch-development debris
+*.bak
+*.backup*
+*.patch
+*~

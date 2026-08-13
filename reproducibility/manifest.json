@@ -1,0 +1,29 @@
+{
+  "project": "Momentum-Reversal Spectral Phase Diagram",
+  "repo_version": "0.10.0",
+  "canonical_seed": 20260812,
+  "universe_files": {
+    "data/universes/confirmatory_japan_nikkei225.csv": {
+      "sha256": "edc7c7027d2c02a3796f2d7f147638ab3af45099d7adf4fb771205a03355004a",
+      "bytes": 25648
+    },
+    "data/universes/development_uk_ftse350.csv": {
+      "sha256": "f3753886c071a524f142faa49a365a8090925fdf09c136e9639e0b02b8dd8acd",
+      "bytes": 36401
+    },
+    "data/universes/discovery_us_mixed.csv": {
+      "sha256": "5595139ef31131931f7fcd818716bfe9494545b10dd872991c58a6873299a9be",
+      "bytes": 8371
+    },
+    "data/universes/validation_us_sp400_sp600.csv": {
+      "sha256": "4f56e47bc7dd2b3b45ba8001c32d5f01e2d36711d70765231c67156f51c2d183",
+      "bytes": 14511
+    }
+  },
+  "reference_protocol_sha256": "c57c1a21a7da9d7cbbb6ec2bcb93a08194874ee8de9899f06b4b351f0f6107f4",
+  "notes": [
+    "Price data are downloaded from yfinance at runtime and are not redistributed.",
+    "Exact bitwise reproduction of published panels requires archiving the original OHLCV cache separately.",
+    "The pure-Python backend is the reproducibility baseline; native CPU/CUDA is optional acceleration."
+  ]
+}

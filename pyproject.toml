@@ -1,0 +1,58 @@
+[build-system]
+requires = ["setuptools>=69", "wheel>=0.43"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mrspd"
+version = "0.10.0"
+description = "Momentum–Reversal Spectral Phase Diagram: spectral/horizon geometry and cross-market reversal-tail validation"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+license = {text = "MIT"}
+authors = [{name = "Abdelmalik Berrada"}]
+dependencies = [
+  "yfinance>=1.5.2,<2",
+  "numpy>=2.0,<3",
+  "pandas>=2.2,<4",
+  "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2",
+  "matplotlib>=3.8,<4",
+  "requests>=2.31,<3",
+  "lxml>=5,<7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.9,<1", "build>=1.2,<2"]
+
+[project.scripts]
+mrspd = "mrspd.pipeline:main"
+mrspd-phase-surface = "mrspd.phase_surface_cli:main"
+mrspd-critical-horizon = "mrspd.critical_horizon_cli:main"
+mrspd-critical-horizon-refine = "mrspd.critical_horizon_refine_cli:main"
+mrspd-independent-validation = "mrspd.independent_validation_cli:main"
+mrspd-transport-v9 = "mrspd.transport_exploratory_cli:main"
+mrspd-transport-v9-1 = "mrspd.transport_exploratory_v9_1_cli:main"
+mrspd-transport-v9-2 = "mrspd.transport_exploratory_v9_2_cli:main"
+mrspd-freeze-v10 = "mrspd.freeze_v10_cross_market_protocol:main"
+mrspd-build-v4-nikkei225 = "mrspd.make_v4_candidate_nikkei225_v10_1:main"
+mrspd-bind-v4 = "mrspd.bind_v4_protocol_v10:main"
+mrspd-validate-v4 = "mrspd.fourth_universe_validation_v10_cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]
+ignore = ["E741"]

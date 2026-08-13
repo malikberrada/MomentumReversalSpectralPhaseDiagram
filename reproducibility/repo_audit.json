@@ -1,0 +1,24 @@
+{
+  "source_archive_entries": 261,
+  "source_archive_uncompressed_bytes": 3706869,
+  "clean_repo_tracked_files": 85,
+  "canonical_python_modules": 41,
+  "canonical_tests": 13,
+  "test_status": {
+    "passed": 56,
+    "skipped_without_optional_native": 1
+  },
+  "optional_native_cpu_build": "PASS",
+  "optional_native_equivalence_test": "PASS",
+  "python_wheel_build": "PASS",
+  "removed_classes": [
+    "versioned patch payload trees",
+    "PowerShell patch installers",
+    "backup source copies",
+    "__pycache__ and .pyc files",
+    "native build objects and Windows binaries",
+    "duplicated test trees",
+    "generated run directories"
+  ],
+  "scientific_code_change": "No estimand/threshold/statistical rule changed by repository cleanup. One synthetic v8.1 routing test fixture was updated to include the analysis columns required by the current streaming contract."
+}

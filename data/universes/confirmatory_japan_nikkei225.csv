@@ -1,0 +1,226 @@
+ticker,asset_class,source_index,sector,company,security_code,source_url
+1332.T,equity,nikkei225,UNKNOWN,NISSUI CORP.,1332,https://indexes.nikkei.co.jp/en/nkave/index/component
+1605.T,equity,nikkei225,UNKNOWN,INPEX CORP.,1605,https://indexes.nikkei.co.jp/en/nkave/index/component
+1721.T,equity,nikkei225,UNKNOWN,COMSYS HOLDINGS CORP.,1721,https://indexes.nikkei.co.jp/en/nkave/index/component
+1801.T,equity,nikkei225,UNKNOWN,TAISEI CORP.,1801,https://indexes.nikkei.co.jp/en/nkave/index/component
+1802.T,equity,nikkei225,UNKNOWN,OBAYASHI CORP.,1802,https://indexes.nikkei.co.jp/en/nkave/index/component
+1803.T,equity,nikkei225,UNKNOWN,SHIMIZU CORP.,1803,https://indexes.nikkei.co.jp/en/nkave/index/component
+1808.T,equity,nikkei225,UNKNOWN,HASEKO CORP.,1808,https://indexes.nikkei.co.jp/en/nkave/index/component
+1812.T,equity,nikkei225,UNKNOWN,KAJIMA CORP.,1812,https://indexes.nikkei.co.jp/en/nkave/index/component
+1925.T,equity,nikkei225,UNKNOWN,"DAIWA HOUSE IND. CO., LTD.",1925,https://indexes.nikkei.co.jp/en/nkave/index/component
+1928.T,equity,nikkei225,UNKNOWN,"SEKISUI HOUSE, LTD.",1928,https://indexes.nikkei.co.jp/en/nkave/index/component
+1963.T,equity,nikkei225,UNKNOWN,JGC HOLDINGS CORP.,1963,https://indexes.nikkei.co.jp/en/nkave/index/component
+2002.T,equity,nikkei225,UNKNOWN,NISSHIN SEIFUN GROUP INC.,2002,https://indexes.nikkei.co.jp/en/nkave/index/component
+2269.T,equity,nikkei225,UNKNOWN,"MEIJI HOLDINGS CO., LTD.",2269,https://indexes.nikkei.co.jp/en/nkave/index/component
+2282.T,equity,nikkei225,UNKNOWN,NH FOODS LTD.,2282,https://indexes.nikkei.co.jp/en/nkave/index/component
+2413.T,equity,nikkei225,UNKNOWN,"M3, INC.",2413,https://indexes.nikkei.co.jp/en/nkave/index/component
+2432.T,equity,nikkei225,UNKNOWN,"DENA CO., LTD.",2432,https://indexes.nikkei.co.jp/en/nkave/index/component
+2501.T,equity,nikkei225,UNKNOWN,SAPPORO BREWERIES LTD.,2501,https://indexes.nikkei.co.jp/en/nkave/index/component
+2502.T,equity,nikkei225,UNKNOWN,"ASAHI GROUP HOLDINGS, LTD.",2502,https://indexes.nikkei.co.jp/en/nkave/index/component
+2503.T,equity,nikkei225,UNKNOWN,"KIRIN HOLDINGS CO., LTD.",2503,https://indexes.nikkei.co.jp/en/nkave/index/component
+2768.T,equity,nikkei225,UNKNOWN,SOJITZ CORP.,2768,https://indexes.nikkei.co.jp/en/nkave/index/component
+2801.T,equity,nikkei225,UNKNOWN,KIKKOMAN CORP.,2801,https://indexes.nikkei.co.jp/en/nkave/index/component
+2802.T,equity,nikkei225,UNKNOWN,"AJINOMOTO CO., INC.",2802,https://indexes.nikkei.co.jp/en/nkave/index/component
+285A.T,equity,nikkei225,UNKNOWN,KIOXIA HOLDINGS CORP.,285A,https://indexes.nikkei.co.jp/en/nkave/index/component
+2871.T,equity,nikkei225,UNKNOWN,NICHIREI CORP.,2871,https://indexes.nikkei.co.jp/en/nkave/index/component
+2914.T,equity,nikkei225,UNKNOWN,JAPAN TOBACCO INC.,2914,https://indexes.nikkei.co.jp/en/nkave/index/component
+3086.T,equity,nikkei225,UNKNOWN,"J.FRONT RETAILING CO., LTD.",3086,https://indexes.nikkei.co.jp/en/nkave/index/component
+3092.T,equity,nikkei225,UNKNOWN,"ZOZO, INC.",3092,https://indexes.nikkei.co.jp/en/nkave/index/component
+3099.T,equity,nikkei225,UNKNOWN,ISETAN MITSUKOSHI HOLDINGS LTD.,3099,https://indexes.nikkei.co.jp/en/nkave/index/component
+3289.T,equity,nikkei225,UNKNOWN,TOKYU FUDOSAN HOLDINGS CORP.,3289,https://indexes.nikkei.co.jp/en/nkave/index/component
+3382.T,equity,nikkei225,UNKNOWN,"SEVEN & I HOLDINGS CO., LTD.",3382,https://indexes.nikkei.co.jp/en/nkave/index/component
+3401.T,equity,nikkei225,UNKNOWN,TEIJIN LTD.,3401,https://indexes.nikkei.co.jp/en/nkave/index/component
+3402.T,equity,nikkei225,UNKNOWN,"TORAY INDUSTRIES, INC.",3402,https://indexes.nikkei.co.jp/en/nkave/index/component
+3405.T,equity,nikkei225,UNKNOWN,"KURARAY CO., LTD.",3405,https://indexes.nikkei.co.jp/en/nkave/index/component
+3407.T,equity,nikkei225,UNKNOWN,ASAHI KASEI CORP.,3407,https://indexes.nikkei.co.jp/en/nkave/index/component
+3436.T,equity,nikkei225,UNKNOWN,SUMCO CORP.,3436,https://indexes.nikkei.co.jp/en/nkave/index/component
+3659.T,equity,nikkei225,UNKNOWN,"NEXON CO., LTD.",3659,https://indexes.nikkei.co.jp/en/nkave/index/component
+3697.T,equity,nikkei225,UNKNOWN,SHIFT INC.,3697,https://indexes.nikkei.co.jp/en/nkave/index/component
+3861.T,equity,nikkei225,UNKNOWN,OJI HOLDINGS CORP.,3861,https://indexes.nikkei.co.jp/en/nkave/index/component
+4004.T,equity,nikkei225,UNKNOWN,RESONAC HOLDINGS CORP.,4004,https://indexes.nikkei.co.jp/en/nkave/index/component
+4005.T,equity,nikkei225,UNKNOWN,"SUMITOMO CHEMICAL CO., LTD.",4005,https://indexes.nikkei.co.jp/en/nkave/index/component
+4021.T,equity,nikkei225,UNKNOWN,NISSAN CHEMICAL CORP.,4021,https://indexes.nikkei.co.jp/en/nkave/index/component
+4042.T,equity,nikkei225,UNKNOWN,TOSOH CORP.,4042,https://indexes.nikkei.co.jp/en/nkave/index/component
+4043.T,equity,nikkei225,UNKNOWN,TOKUYAMA CORP.,4043,https://indexes.nikkei.co.jp/en/nkave/index/component
+4061.T,equity,nikkei225,UNKNOWN,"DENKA CO., LTD.",4061,https://indexes.nikkei.co.jp/en/nkave/index/component
+4062.T,equity,nikkei225,UNKNOWN,"IBIDEN CO., LTD.",4062,https://indexes.nikkei.co.jp/en/nkave/index/component
+4063.T,equity,nikkei225,UNKNOWN,"SHIN-ETSU CHEMICAL CO., LTD.",4063,https://indexes.nikkei.co.jp/en/nkave/index/component
+4151.T,equity,nikkei225,UNKNOWN,"KYOWA KIRIN CO., LTD.",4151,https://indexes.nikkei.co.jp/en/nkave/index/component
+4183.T,equity,nikkei225,UNKNOWN,"MITSUI CHEMICALS, INC.",4183,https://indexes.nikkei.co.jp/en/nkave/index/component
+4188.T,equity,nikkei225,UNKNOWN,MITSUBISHI CHEMICAL GROUP CORP.,4188,https://indexes.nikkei.co.jp/en/nkave/index/component
+4208.T,equity,nikkei225,UNKNOWN,UBE CORP.,4208,https://indexes.nikkei.co.jp/en/nkave/index/component
+4307.T,equity,nikkei225,UNKNOWN,"NOMURA RESEARCH INSTITUTE, LTD.",4307,https://indexes.nikkei.co.jp/en/nkave/index/component
+4324.T,equity,nikkei225,UNKNOWN,DENTSU GROUP INC.,4324,https://indexes.nikkei.co.jp/en/nkave/index/component
+4385.T,equity,nikkei225,UNKNOWN,"MERCARI, INC.",4385,https://indexes.nikkei.co.jp/en/nkave/index/component
+4452.T,equity,nikkei225,UNKNOWN,KAO CORP.,4452,https://indexes.nikkei.co.jp/en/nkave/index/component
+4502.T,equity,nikkei225,UNKNOWN,"TAKEDA PHARMACEUTICAL CO., LTD.",4502,https://indexes.nikkei.co.jp/en/nkave/index/component
+4503.T,equity,nikkei225,UNKNOWN,ASTELLAS PHARMA INC.,4503,https://indexes.nikkei.co.jp/en/nkave/index/component
+4506.T,equity,nikkei225,UNKNOWN,"SUMITOMO PHARMA CO., LTD.",4506,https://indexes.nikkei.co.jp/en/nkave/index/component
+4507.T,equity,nikkei225,UNKNOWN,"SHIONOGI & CO., LTD.",4507,https://indexes.nikkei.co.jp/en/nkave/index/component
+4519.T,equity,nikkei225,UNKNOWN,"CHUGAI PHARMACEUTICAL CO., LTD.",4519,https://indexes.nikkei.co.jp/en/nkave/index/component
+4523.T,equity,nikkei225,UNKNOWN,"EISAI CO., LTD.",4523,https://indexes.nikkei.co.jp/en/nkave/index/component
+4543.T,equity,nikkei225,UNKNOWN,TERUMO CORP.,4543,https://indexes.nikkei.co.jp/en/nkave/index/component
+4568.T,equity,nikkei225,UNKNOWN,"DAIICHI SANKYO CO., LTD.",4568,https://indexes.nikkei.co.jp/en/nkave/index/component
+4578.T,equity,nikkei225,UNKNOWN,"OTSUKA HOLDINGS CO., LTD.",4578,https://indexes.nikkei.co.jp/en/nkave/index/component
+4661.T,equity,nikkei225,UNKNOWN,"ORIENTAL LAND CO., LTD.",4661,https://indexes.nikkei.co.jp/en/nkave/index/component
+4689.T,equity,nikkei225,UNKNOWN,LY CORP.,4689,https://indexes.nikkei.co.jp/en/nkave/index/component
+4704.T,equity,nikkei225,UNKNOWN,TREND MICRO INC.,4704,https://indexes.nikkei.co.jp/en/nkave/index/component
+4751.T,equity,nikkei225,UNKNOWN,"CYBERAGENT, INC.",4751,https://indexes.nikkei.co.jp/en/nkave/index/component
+4755.T,equity,nikkei225,UNKNOWN,"RAKUTEN GROUP, INC.",4755,https://indexes.nikkei.co.jp/en/nkave/index/component
+4901.T,equity,nikkei225,UNKNOWN,FUJIFILM HOLDINGS CORP.,4901,https://indexes.nikkei.co.jp/en/nkave/index/component
+4902.T,equity,nikkei225,UNKNOWN,"KONICA MINOLTA, INC.",4902,https://indexes.nikkei.co.jp/en/nkave/index/component
+4911.T,equity,nikkei225,UNKNOWN,"SHISEIDO CO., LTD.",4911,https://indexes.nikkei.co.jp/en/nkave/index/component
+5019.T,equity,nikkei225,UNKNOWN,"IDEMITSU KOSAN CO., LTD.",5019,https://indexes.nikkei.co.jp/en/nkave/index/component
+5020.T,equity,nikkei225,UNKNOWN,"ENEOS HOLDINGS, INC.",5020,https://indexes.nikkei.co.jp/en/nkave/index/component
+5101.T,equity,nikkei225,UNKNOWN,"THE YOKOHAMA RUBBER CO., LTD.",5101,https://indexes.nikkei.co.jp/en/nkave/index/component
+5108.T,equity,nikkei225,UNKNOWN,BRIDGESTONE CORP.,5108,https://indexes.nikkei.co.jp/en/nkave/index/component
+5201.T,equity,nikkei225,UNKNOWN,AGC INC.,5201,https://indexes.nikkei.co.jp/en/nkave/index/component
+5214.T,equity,nikkei225,UNKNOWN,"NIPPON ELECTRIC GLASS CO., LTD.",5214,https://indexes.nikkei.co.jp/en/nkave/index/component
+5233.T,equity,nikkei225,UNKNOWN,TAIHEIYO CEMENT CORP.,5233,https://indexes.nikkei.co.jp/en/nkave/index/component
+5301.T,equity,nikkei225,UNKNOWN,"TOKAI CARBON CO., LTD.",5301,https://indexes.nikkei.co.jp/en/nkave/index/component
+5332.T,equity,nikkei225,UNKNOWN,TOTO LTD.,5332,https://indexes.nikkei.co.jp/en/nkave/index/component
+5333.T,equity,nikkei225,UNKNOWN,NGK CORP.,5333,https://indexes.nikkei.co.jp/en/nkave/index/component
+5401.T,equity,nikkei225,UNKNOWN,NIPPON STEEL CORP.,5401,https://indexes.nikkei.co.jp/en/nkave/index/component
+5406.T,equity,nikkei225,UNKNOWN,"KOBE STEEL, LTD.",5406,https://indexes.nikkei.co.jp/en/nkave/index/component
+5411.T,equity,nikkei225,UNKNOWN,"JFE HOLDINGS, INC.",5411,https://indexes.nikkei.co.jp/en/nkave/index/component
+543A.T,equity,nikkei225,UNKNOWN,ARCHION CORP.,543A,https://indexes.nikkei.co.jp/en/nkave/index/component
+5631.T,equity,nikkei225,UNKNOWN,"THE JAPAN STEEL WORKS, LTD.",5631,https://indexes.nikkei.co.jp/en/nkave/index/component
+5706.T,equity,nikkei225,UNKNOWN,"MITSUI KINZOKU CO., LTD.",5706,https://indexes.nikkei.co.jp/en/nkave/index/component
+5711.T,equity,nikkei225,UNKNOWN,MITSUBISHI MATERIALS CORP.,5711,https://indexes.nikkei.co.jp/en/nkave/index/component
+5713.T,equity,nikkei225,UNKNOWN,"SUMITOMO METAL MINING CO., LTD.",5713,https://indexes.nikkei.co.jp/en/nkave/index/component
+5714.T,equity,nikkei225,UNKNOWN,"DOWA HOLDINGS CO., LTD.",5714,https://indexes.nikkei.co.jp/en/nkave/index/component
+5801.T,equity,nikkei225,UNKNOWN,"FURUKAWA ELECTRIC CO., LTD.",5801,https://indexes.nikkei.co.jp/en/nkave/index/component
+5802.T,equity,nikkei225,UNKNOWN,"SUMITOMO ELECTRIC IND., LTD.",5802,https://indexes.nikkei.co.jp/en/nkave/index/component
+5803.T,equity,nikkei225,UNKNOWN,FUJIKURA LTD.,5803,https://indexes.nikkei.co.jp/en/nkave/index/component
+5831.T,equity,nikkei225,UNKNOWN,"SHIZUOKA FINANCIAL GROUP, INC.",5831,https://indexes.nikkei.co.jp/en/nkave/index/component
+6098.T,equity,nikkei225,UNKNOWN,"RECRUIT HOLDINGS CO., LTD.",6098,https://indexes.nikkei.co.jp/en/nkave/index/component
+6103.T,equity,nikkei225,UNKNOWN,OKUMA CORP.,6103,https://indexes.nikkei.co.jp/en/nkave/index/component
+6113.T,equity,nikkei225,UNKNOWN,"AMADA CO., LTD.",6113,https://indexes.nikkei.co.jp/en/nkave/index/component
+6146.T,equity,nikkei225,UNKNOWN,DISCO CORP.,6146,https://indexes.nikkei.co.jp/en/nkave/index/component
+6178.T,equity,nikkei225,UNKNOWN,"JAPAN POST HOLDINGS CO., LTD.",6178,https://indexes.nikkei.co.jp/en/nkave/index/component
+6273.T,equity,nikkei225,UNKNOWN,SMC CORP.,6273,https://indexes.nikkei.co.jp/en/nkave/index/component
+6301.T,equity,nikkei225,UNKNOWN,KOMATSU LTD.,6301,https://indexes.nikkei.co.jp/en/nkave/index/component
+6302.T,equity,nikkei225,UNKNOWN,"SUMITOMO HEAVY IND., LTD.",6302,https://indexes.nikkei.co.jp/en/nkave/index/component
+6305.T,equity,nikkei225,UNKNOWN,"HITACHI CONST. MACH. CO., LTD.",6305,https://indexes.nikkei.co.jp/en/nkave/index/component
+6326.T,equity,nikkei225,UNKNOWN,KUBOTA CORP.,6326,https://indexes.nikkei.co.jp/en/nkave/index/component
+6361.T,equity,nikkei225,UNKNOWN,EBARA CORP.,6361,https://indexes.nikkei.co.jp/en/nkave/index/component
+6367.T,equity,nikkei225,UNKNOWN,"DAIKIN INDUSTRIES, LTD.",6367,https://indexes.nikkei.co.jp/en/nkave/index/component
+6471.T,equity,nikkei225,UNKNOWN,NSK LTD.,6471,https://indexes.nikkei.co.jp/en/nkave/index/component
+6472.T,equity,nikkei225,UNKNOWN,NTN CORP.,6472,https://indexes.nikkei.co.jp/en/nkave/index/component
+6473.T,equity,nikkei225,UNKNOWN,JTEKT CORP.,6473,https://indexes.nikkei.co.jp/en/nkave/index/component
+6479.T,equity,nikkei225,UNKNOWN,MINEBEA MITSUMI INC.,6479,https://indexes.nikkei.co.jp/en/nkave/index/component
+6501.T,equity,nikkei225,UNKNOWN,"HITACHI, LTD.",6501,https://indexes.nikkei.co.jp/en/nkave/index/component
+6503.T,equity,nikkei225,UNKNOWN,MITSUBISHI ELECTRIC CORP.,6503,https://indexes.nikkei.co.jp/en/nkave/index/component
+6504.T,equity,nikkei225,UNKNOWN,"FUJI ELECTRIC CO., LTD.",6504,https://indexes.nikkei.co.jp/en/nkave/index/component
+6506.T,equity,nikkei225,UNKNOWN,YASKAWA ELECTRIC CORP.,6506,https://indexes.nikkei.co.jp/en/nkave/index/component
+6526.T,equity,nikkei225,UNKNOWN,SOCIONEXT INC.,6526,https://indexes.nikkei.co.jp/en/nkave/index/component
+6532.T,equity,nikkei225,UNKNOWN,"BAYCURRENT, INC.",6532,https://indexes.nikkei.co.jp/en/nkave/index/component
+6645.T,equity,nikkei225,UNKNOWN,OMRON CORP.,6645,https://indexes.nikkei.co.jp/en/nkave/index/component
+6701.T,equity,nikkei225,UNKNOWN,NEC CORP.,6701,https://indexes.nikkei.co.jp/en/nkave/index/component
+6702.T,equity,nikkei225,UNKNOWN,FUJITSU LTD.,6702,https://indexes.nikkei.co.jp/en/nkave/index/component
+6723.T,equity,nikkei225,UNKNOWN,RENESAS ELECTRONICS CORP.,6723,https://indexes.nikkei.co.jp/en/nkave/index/component
+6724.T,equity,nikkei225,UNKNOWN,SEIKO EPSON CORP.,6724,https://indexes.nikkei.co.jp/en/nkave/index/component
+6752.T,equity,nikkei225,UNKNOWN,PANASONIC HOLDINGS CORP.,6752,https://indexes.nikkei.co.jp/en/nkave/index/component
+6753.T,equity,nikkei225,UNKNOWN,SHARP CORP.,6753,https://indexes.nikkei.co.jp/en/nkave/index/component
+6758.T,equity,nikkei225,UNKNOWN,SONY GROUP CORP.,6758,https://indexes.nikkei.co.jp/en/nkave/index/component
+6762.T,equity,nikkei225,UNKNOWN,TDK CORP.,6762,https://indexes.nikkei.co.jp/en/nkave/index/component
+6770.T,equity,nikkei225,UNKNOWN,"ALPS ALPINE CO., LTD.",6770,https://indexes.nikkei.co.jp/en/nkave/index/component
+6841.T,equity,nikkei225,UNKNOWN,YOKOGAWA ELECTRIC CORP.,6841,https://indexes.nikkei.co.jp/en/nkave/index/component
+6857.T,equity,nikkei225,UNKNOWN,ADVANTEST CORP.,6857,https://indexes.nikkei.co.jp/en/nkave/index/component
+6861.T,equity,nikkei225,UNKNOWN,KEYENCE CORP.,6861,https://indexes.nikkei.co.jp/en/nkave/index/component
+6902.T,equity,nikkei225,UNKNOWN,DENSO CORP.,6902,https://indexes.nikkei.co.jp/en/nkave/index/component
+6920.T,equity,nikkei225,UNKNOWN,LASERTEC CORP.,6920,https://indexes.nikkei.co.jp/en/nkave/index/component
+6954.T,equity,nikkei225,UNKNOWN,FANUC CORP.,6954,https://indexes.nikkei.co.jp/en/nkave/index/component
+6963.T,equity,nikkei225,UNKNOWN,"ROHM CO., LTD.",6963,https://indexes.nikkei.co.jp/en/nkave/index/component
+6971.T,equity,nikkei225,UNKNOWN,KYOCERA CORP.,6971,https://indexes.nikkei.co.jp/en/nkave/index/component
+6976.T,equity,nikkei225,UNKNOWN,"TAIYO YUDEN CO., LTD.",6976,https://indexes.nikkei.co.jp/en/nkave/index/component
+6981.T,equity,nikkei225,UNKNOWN,"MURATA MANUFACTURING CO., LTD.",6981,https://indexes.nikkei.co.jp/en/nkave/index/component
+6988.T,equity,nikkei225,UNKNOWN,NITTO DENKO CORP.,6988,https://indexes.nikkei.co.jp/en/nkave/index/component
+7004.T,equity,nikkei225,UNKNOWN,KANADEVIA CORP.,7004,https://indexes.nikkei.co.jp/en/nkave/index/component
+7011.T,equity,nikkei225,UNKNOWN,"MITSUBISHI HEAVY IND., LTD.",7011,https://indexes.nikkei.co.jp/en/nkave/index/component
+7012.T,equity,nikkei225,UNKNOWN,"KAWASAKI HEAVY IND., LTD.",7012,https://indexes.nikkei.co.jp/en/nkave/index/component
+7013.T,equity,nikkei225,UNKNOWN,IHI CORP.,7013,https://indexes.nikkei.co.jp/en/nkave/index/component
+7186.T,equity,nikkei225,UNKNOWN,"YOKOHAMA FINANCIAL GROUP, INC.",7186,https://indexes.nikkei.co.jp/en/nkave/index/component
+7201.T,equity,nikkei225,UNKNOWN,"NISSAN MOTOR CO., LTD.",7201,https://indexes.nikkei.co.jp/en/nkave/index/component
+7202.T,equity,nikkei225,UNKNOWN,ISUZU MOTORS LTD.,7202,https://indexes.nikkei.co.jp/en/nkave/index/component
+7203.T,equity,nikkei225,UNKNOWN,TOYOTA MOTOR CORP.,7203,https://indexes.nikkei.co.jp/en/nkave/index/component
+7211.T,equity,nikkei225,UNKNOWN,MITSUBISHI MOTORS CORP.,7211,https://indexes.nikkei.co.jp/en/nkave/index/component
+7261.T,equity,nikkei225,UNKNOWN,MAZDA MOTOR CORP.,7261,https://indexes.nikkei.co.jp/en/nkave/index/component
+7267.T,equity,nikkei225,UNKNOWN,"HONDA MOTOR CO., LTD.",7267,https://indexes.nikkei.co.jp/en/nkave/index/component
+7269.T,equity,nikkei225,UNKNOWN,SUZUKI MOTOR CORP.,7269,https://indexes.nikkei.co.jp/en/nkave/index/component
+7270.T,equity,nikkei225,UNKNOWN,SUBARU CORP.,7270,https://indexes.nikkei.co.jp/en/nkave/index/component
+7272.T,equity,nikkei225,UNKNOWN,"YAMAHA MOTOR CO., LTD.",7272,https://indexes.nikkei.co.jp/en/nkave/index/component
+7453.T,equity,nikkei225,UNKNOWN,"RYOHIN KEIKAKU CO., LTD.",7453,https://indexes.nikkei.co.jp/en/nkave/index/component
+7532.T,equity,nikkei225,UNKNOWN,PAN PACIFIC INTERNATIONAL HOLDINGS CORP.,7532,https://indexes.nikkei.co.jp/en/nkave/index/component
+7731.T,equity,nikkei225,UNKNOWN,NIKON CORP.,7731,https://indexes.nikkei.co.jp/en/nkave/index/component
+7733.T,equity,nikkei225,UNKNOWN,OLYMPUS CORP.,7733,https://indexes.nikkei.co.jp/en/nkave/index/component
+7735.T,equity,nikkei225,UNKNOWN,"SCREEN HOLDINGS CO., LTD.",7735,https://indexes.nikkei.co.jp/en/nkave/index/component
+7741.T,equity,nikkei225,UNKNOWN,HOYA CORP.,7741,https://indexes.nikkei.co.jp/en/nkave/index/component
+7751.T,equity,nikkei225,UNKNOWN,CANON INC.,7751,https://indexes.nikkei.co.jp/en/nkave/index/component
+7752.T,equity,nikkei225,UNKNOWN,"RICOH CO., LTD.",7752,https://indexes.nikkei.co.jp/en/nkave/index/component
+7832.T,equity,nikkei225,UNKNOWN,BANDAI NAMCO HOLDINGS INC.,7832,https://indexes.nikkei.co.jp/en/nkave/index/component
+7911.T,equity,nikkei225,UNKNOWN,TOPPAN HOLDINGS INC.,7911,https://indexes.nikkei.co.jp/en/nkave/index/component
+7912.T,equity,nikkei225,UNKNOWN,"DAI NIPPON PRINTING CO., LTD.",7912,https://indexes.nikkei.co.jp/en/nkave/index/component
+7951.T,equity,nikkei225,UNKNOWN,YAMAHA CORP.,7951,https://indexes.nikkei.co.jp/en/nkave/index/component
+7974.T,equity,nikkei225,UNKNOWN,"NINTENDO CO., LTD.",7974,https://indexes.nikkei.co.jp/en/nkave/index/component
+8001.T,equity,nikkei225,UNKNOWN,ITOCHU CORP.,8001,https://indexes.nikkei.co.jp/en/nkave/index/component
+8002.T,equity,nikkei225,UNKNOWN,MARUBENI CORP.,8002,https://indexes.nikkei.co.jp/en/nkave/index/component
+8015.T,equity,nikkei225,UNKNOWN,TOYOTA TSUSHO CORP.,8015,https://indexes.nikkei.co.jp/en/nkave/index/component
+8031.T,equity,nikkei225,UNKNOWN,"MITSUI & CO., LTD.",8031,https://indexes.nikkei.co.jp/en/nkave/index/component
+8035.T,equity,nikkei225,UNKNOWN,TOKYO ELECTRON LTD.,8035,https://indexes.nikkei.co.jp/en/nkave/index/component
+8053.T,equity,nikkei225,UNKNOWN,SUMITOMO CORP.,8053,https://indexes.nikkei.co.jp/en/nkave/index/component
+8058.T,equity,nikkei225,UNKNOWN,MITSUBISHI CORP.,8058,https://indexes.nikkei.co.jp/en/nkave/index/component
+8233.T,equity,nikkei225,UNKNOWN,"TAKASHIMAYA CO., LTD.",8233,https://indexes.nikkei.co.jp/en/nkave/index/component
+8252.T,equity,nikkei225,UNKNOWN,"MARUI GROUP CO., LTD.",8252,https://indexes.nikkei.co.jp/en/nkave/index/component
+8253.T,equity,nikkei225,UNKNOWN,"CREDIT SAISON CO., LTD.",8253,https://indexes.nikkei.co.jp/en/nkave/index/component
+8267.T,equity,nikkei225,UNKNOWN,"AEON CO., LTD.",8267,https://indexes.nikkei.co.jp/en/nkave/index/component
+8304.T,equity,nikkei225,UNKNOWN,"AOZORA BANK, LTD.",8304,https://indexes.nikkei.co.jp/en/nkave/index/component
+8306.T,equity,nikkei225,UNKNOWN,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",8306,https://indexes.nikkei.co.jp/en/nkave/index/component
+8308.T,equity,nikkei225,UNKNOWN,"RESONA HOLDINGS, INC.",8308,https://indexes.nikkei.co.jp/en/nkave/index/component
+8309.T,equity,nikkei225,UNKNOWN,"SUMITOMO MITSUI TRUST GROUP, INC.",8309,https://indexes.nikkei.co.jp/en/nkave/index/component
+8316.T,equity,nikkei225,UNKNOWN,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",8316,https://indexes.nikkei.co.jp/en/nkave/index/component
+8331.T,equity,nikkei225,UNKNOWN,"THE CHIBA BANK, LTD.",8331,https://indexes.nikkei.co.jp/en/nkave/index/component
+8354.T,equity,nikkei225,UNKNOWN,"FUKUOKA FINANCIAL GROUP, INC.",8354,https://indexes.nikkei.co.jp/en/nkave/index/component
+8411.T,equity,nikkei225,UNKNOWN,"MIZUHO FINANCIAL GROUP, INC.",8411,https://indexes.nikkei.co.jp/en/nkave/index/component
+8591.T,equity,nikkei225,UNKNOWN,ORIX CORP.,8591,https://indexes.nikkei.co.jp/en/nkave/index/component
+8601.T,equity,nikkei225,UNKNOWN,DAIWA SECURITIES GROUP INC.,8601,https://indexes.nikkei.co.jp/en/nkave/index/component
+8604.T,equity,nikkei225,UNKNOWN,"NOMURA HOLDINGS, INC.",8604,https://indexes.nikkei.co.jp/en/nkave/index/component
+8630.T,equity,nikkei225,UNKNOWN,"SOMPO HOLDINGS, INC.",8630,https://indexes.nikkei.co.jp/en/nkave/index/component
+8697.T,equity,nikkei225,UNKNOWN,"JAPAN EXCHANGE GROUP, INC.",8697,https://indexes.nikkei.co.jp/en/nkave/index/component
+8725.T,equity,nikkei225,UNKNOWN,"MS&AD INSURANCE GROUP HOLDINGS, INC.",8725,https://indexes.nikkei.co.jp/en/nkave/index/component
+8750.T,equity,nikkei225,UNKNOWN,"DAIICHI LIFE GROUP, INC.",8750,https://indexes.nikkei.co.jp/en/nkave/index/component
+8766.T,equity,nikkei225,UNKNOWN,"TOKIO MARINE HOLDINGS, INC.",8766,https://indexes.nikkei.co.jp/en/nkave/index/component
+8795.T,equity,nikkei225,UNKNOWN,"T&D HOLDINGS, INC.",8795,https://indexes.nikkei.co.jp/en/nkave/index/component
+8801.T,equity,nikkei225,UNKNOWN,"MITSUI FUDOSAN CO., LTD.",8801,https://indexes.nikkei.co.jp/en/nkave/index/component
+8802.T,equity,nikkei225,UNKNOWN,"MITSUBISHI ESTATE CO., LTD.",8802,https://indexes.nikkei.co.jp/en/nkave/index/component
+8804.T,equity,nikkei225,UNKNOWN,"TOKYO TATEMONO CO., LTD.",8804,https://indexes.nikkei.co.jp/en/nkave/index/component
+8830.T,equity,nikkei225,UNKNOWN,"SUMITOMO REALTY & DEVELOPMENT CO., LTD.",8830,https://indexes.nikkei.co.jp/en/nkave/index/component
+9001.T,equity,nikkei225,UNKNOWN,"TOBU RAILWAY CO., LTD.",9001,https://indexes.nikkei.co.jp/en/nkave/index/component
+9005.T,equity,nikkei225,UNKNOWN,TOKYU CORP.,9005,https://indexes.nikkei.co.jp/en/nkave/index/component
+9007.T,equity,nikkei225,UNKNOWN,"ODAKYU ELECTRIC RAILWAY CO., LTD.",9007,https://indexes.nikkei.co.jp/en/nkave/index/component
+9008.T,equity,nikkei225,UNKNOWN,KEIO CORP.,9008,https://indexes.nikkei.co.jp/en/nkave/index/component
+9009.T,equity,nikkei225,UNKNOWN,"KEISEI ELECTRIC RAILWAY CO., LTD.",9009,https://indexes.nikkei.co.jp/en/nkave/index/component
+9020.T,equity,nikkei225,UNKNOWN,EAST JAPAN RAILWAY CO.,9020,https://indexes.nikkei.co.jp/en/nkave/index/component
+9021.T,equity,nikkei225,UNKNOWN,WEST JAPAN RAILWAY CO.,9021,https://indexes.nikkei.co.jp/en/nkave/index/component
+9022.T,equity,nikkei225,UNKNOWN,"CENTRAL JAPAN RAILWAY CO., LTD.",9022,https://indexes.nikkei.co.jp/en/nkave/index/component
+9064.T,equity,nikkei225,UNKNOWN,"YAMATO HOLDINGS CO., LTD.",9064,https://indexes.nikkei.co.jp/en/nkave/index/component
+9101.T,equity,nikkei225,UNKNOWN,NIPPON YUSEN K.K.,9101,https://indexes.nikkei.co.jp/en/nkave/index/component
+9104.T,equity,nikkei225,UNKNOWN,"MITSUI O.S.K.LINES, LTD.",9104,https://indexes.nikkei.co.jp/en/nkave/index/component
+9107.T,equity,nikkei225,UNKNOWN,"KAWASAKI KISEN KAISHA, LTD.",9107,https://indexes.nikkei.co.jp/en/nkave/index/component
+9147.T,equity,nikkei225,UNKNOWN,"NIPPON EXPRESS HOLDINGS, INC.",9147,https://indexes.nikkei.co.jp/en/nkave/index/component
+9201.T,equity,nikkei225,UNKNOWN,"JAPAN AIRLINES CO., LTD.",9201,https://indexes.nikkei.co.jp/en/nkave/index/component
+9202.T,equity,nikkei225,UNKNOWN,ANA HOLDINGS INC.,9202,https://indexes.nikkei.co.jp/en/nkave/index/component
+9432.T,equity,nikkei225,UNKNOWN,"NTT, INC.",9432,https://indexes.nikkei.co.jp/en/nkave/index/component
+9433.T,equity,nikkei225,UNKNOWN,KDDI CORP.,9433,https://indexes.nikkei.co.jp/en/nkave/index/component
+9434.T,equity,nikkei225,UNKNOWN,SOFTBANK CORP.,9434,https://indexes.nikkei.co.jp/en/nkave/index/component
+9501.T,equity,nikkei225,UNKNOWN,"TOKYO ELECTRIC POWER COMPANY HOLDINGS, I",9501,https://indexes.nikkei.co.jp/en/nkave/index/component
+9502.T,equity,nikkei225,UNKNOWN,"CHUBU ELECTRIC POWER CO., INC.",9502,https://indexes.nikkei.co.jp/en/nkave/index/component
+9503.T,equity,nikkei225,UNKNOWN,"THE KANSAI ELECTRIC POWER CO., INC.",9503,https://indexes.nikkei.co.jp/en/nkave/index/component
+9531.T,equity,nikkei225,UNKNOWN,"TOKYO GAS CO., LTD.",9531,https://indexes.nikkei.co.jp/en/nkave/index/component
+9532.T,equity,nikkei225,UNKNOWN,"OSAKA GAS CO., LTD.",9532,https://indexes.nikkei.co.jp/en/nkave/index/component
+9602.T,equity,nikkei225,UNKNOWN,"TOHO CO., LTD",9602,https://indexes.nikkei.co.jp/en/nkave/index/component
+9735.T,equity,nikkei225,UNKNOWN,"SECOM CO., LTD.",9735,https://indexes.nikkei.co.jp/en/nkave/index/component
+9766.T,equity,nikkei225,UNKNOWN,KONAMI GROUP CORP.,9766,https://indexes.nikkei.co.jp/en/nkave/index/component
+9843.T,equity,nikkei225,UNKNOWN,"NITORI HOLDINGS CO., LTD.",9843,https://indexes.nikkei.co.jp/en/nkave/index/component
+9983.T,equity,nikkei225,UNKNOWN,"FAST RETAILING CO., LTD.",9983,https://indexes.nikkei.co.jp/en/nkave/index/component
+9984.T,equity,nikkei225,UNKNOWN,SOFTBANK GROUP CORP.,9984,https://indexes.nikkei.co.jp/en/nkave/index/component

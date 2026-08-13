@@ -1,0 +1,18 @@
+[build-system]
+requires = [
+  "setuptools>=69",
+  "wheel>=0.43",
+  "numpy>=2.0"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mrspd-native"
+version = "0.1.1"
+description = "Native C++/CUDA kernels for Momentum-Reversal Spectral Phase Diagram"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.0"]
+license = "MIT"
+
+[tool.setuptools]
+packages = ["mrspd_native"]

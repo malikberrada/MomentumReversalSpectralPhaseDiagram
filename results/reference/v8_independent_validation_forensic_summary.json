@@ -1,0 +1,15 @@
+{
+  "status": "MRSPD_CONFIRMATORY_FORENSIC_AUDIT_v8_4",
+  "implementation_invariants_pass": true,
+  "classification": "STATISTICAL_NONREPLICATION_UNDER_FROZEN_PROTOCOL",
+  "original_verdict_unchanged": {
+    "independence_pass": true,
+    "phenomenon_confirmed": false,
+    "localization_confirmed": false,
+    "discovery_target_hc_grid": 128,
+    "validation_refined_hc_grid": null,
+    "localization_tolerance_days": 7,
+    "overall_confirmatory_pass": false,
+    "interpretation": "NOT_CONFIRMED"
+  }
+}

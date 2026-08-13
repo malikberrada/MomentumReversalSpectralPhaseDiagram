@@ -1,0 +1,8 @@
+yfinance>=1.5.2,<2
+numpy>=2.0,<3
+pandas>=2.2,<4
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+requests>=2.31,<3
+lxml>=5,<7

@@ -1,0 +1,351 @@
+ticker,asset_class,source_index,sector,company,source_url
+3IN.L,equity,ftse250,Financial Services,3i Infrastructure,https://en.wikipedia.org/wiki/FTSE_250_Index
+AAF.L,equity,ftse100,Telecommunications services,Airtel Africa,https://en.wikipedia.org/wiki/FTSE_100_Index
+AAL.L,equity,ftse100,Mining,Anglo American plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+AAS.L,equity,ftse250,Investment Trusts,Aberdeen Asia Focus,https://en.wikipedia.org/wiki/FTSE_250_Index
+ABDN.L,equity,ftse100,Financial Services,Aberdeen Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+ABF.L,equity,ftse100,Food & tobacco,Associated British Foods,https://en.wikipedia.org/wiki/FTSE_100_Index
+ADM.L,equity,ftse100,Insurance,Admiral Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+AEP.L,equity,ftse250,Food Producers,AEP Plantations,https://en.wikipedia.org/wiki/FTSE_250_Index
+AGT.L,equity,ftse250,Investment Trusts,AVI Global Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+AIE.L,equity,ftse250,Investment Trusts,Ashoka India Equity Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+AJB.L,equity,ftse250,Financial Services,AJ Bell,https://en.wikipedia.org/wiki/FTSE_250_Index
+ALFA.L,equity,ftse250,Software and Computer Services,Alfa Financial Software,https://en.wikipedia.org/wiki/FTSE_250_Index
+ALW.L,equity,ftse100,Investment Trusts,Alliance Witan,https://en.wikipedia.org/wiki/FTSE_100_Index
+AML.L,equity,ftse250,Automobiles & Parts,Aston Martin Lagonda,https://en.wikipedia.org/wiki/FTSE_250_Index
+ANTO.L,equity,ftse100,Mining,Antofagasta plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+AO.L,equity,ftse250,Retail,AO World,https://en.wikipedia.org/wiki/FTSE_250_Index
+APN.L,equity,ftse250,Food Producers,Applied Nutrition,https://en.wikipedia.org/wiki/FTSE_250_Index
+ASHM.L,equity,ftse250,Financial Services,Ashmore Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+ASL.L,equity,ftse250,Investment Trusts,Aberforth Smaller Companies Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+ATG.L,equity,ftse250,Software and Computer Services,Auction Technology Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+ATR.L,equity,ftse250,Investment Trusts,Schroder Asian Total Return Investment Company,https://en.wikipedia.org/wiki/FTSE_250_Index
+ATT.L,equity,ftse250,Investment Trusts,Allianz Technology Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+ATYM.L,equity,ftse250,Industrial Metals and Mining,Atalaya Mining,https://en.wikipedia.org/wiki/FTSE_250_Index
+AUTO.L,equity,ftse100,Media,Autotrader Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+AV.L,equity,ftse100,Life insurance,Aviva,https://en.wikipedia.org/wiki/FTSE_100_Index
+AVON.L,equity,ftse250,Industrial Goods and Services,Avon Technologies,https://en.wikipedia.org/wiki/FTSE_250_Index
+AZN.L,equity,ftse100,Pharmaceuticals & biotechnology,AstraZeneca,https://en.wikipedia.org/wiki/FTSE_100_Index
+BA.L,equity,ftse100,Aerospace & defence,BAE Systems,https://en.wikipedia.org/wiki/FTSE_100_Index
+BAB.L,equity,ftse100,Aerospace & defence,Babcock International,https://en.wikipedia.org/wiki/FTSE_100_Index
+BAG.L,equity,ftse250,Beverages,A.G. Barr,https://en.wikipedia.org/wiki/FTSE_250_Index
+BARC.L,equity,ftse100,Banks,Barclays,https://en.wikipedia.org/wiki/FTSE_100_Index
+BATS.L,equity,ftse100,Tobacco,British American Tobacco,https://en.wikipedia.org/wiki/FTSE_100_Index
+BBOX.L,equity,ftse100,Real Estate Investment Trusts,Tritax Big Box REIT,https://en.wikipedia.org/wiki/FTSE_100_Index
+BBY.L,equity,ftse250,Construction & Materials,Balfour Beatty,https://en.wikipedia.org/wiki/FTSE_250_Index
+BCG.L,equity,ftse250,Consumer Digital Services,Baltic Classifieds,https://en.wikipedia.org/wiki/FTSE_250_Index
+BEZ.L,equity,ftse100,Insurance,Beazley,https://en.wikipedia.org/wiki/FTSE_100_Index
+BGEO.L,equity,ftse100,Banking Services,Lion Finance Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+BGFD.L,equity,ftse250,Investment Trusts,Baillie Gifford Japan Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BHMG.L,equity,ftse250,Hedge Funds,BH Macro,https://en.wikipedia.org/wiki/FTSE_250_Index
+BKG.L,equity,ftse250,Household goods & home construction,Berkeley Group Holdings,https://en.wikipedia.org/wiki/FTSE_250_Index
+BLND.L,equity,ftse100,Real estate,British Land,https://en.wikipedia.org/wiki/FTSE_100_Index
+BME.L,equity,ftse250,Retailers,B&M,https://en.wikipedia.org/wiki/FTSE_250_Index
+BMY.L,equity,ftse250,Media,Bloomsbury Publishing,https://en.wikipedia.org/wiki/FTSE_250_Index
+BNKR.L,equity,ftse250,Investment Trusts,Bankers Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BNZL.L,equity,ftse100,Support services,Bunzl,https://en.wikipedia.org/wiki/FTSE_100_Index
+BOWL.L,equity,ftse250,Travel and leisure,Hollywood Bowl Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+BOY.L,equity,ftse250,Industrial Engineering,Bodycote,https://en.wikipedia.org/wiki/FTSE_250_Index
+BP.L,equity,ftse100,Oil & gas producers,BP,https://en.wikipedia.org/wiki/FTSE_100_Index
+BPCR.L,equity,ftse250,Investment Trusts,Biopharma Credit,https://en.wikipedia.org/wiki/FTSE_250_Index
+BPT.L,equity,ftse250,Financial Services,Bridgepoint Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+BRBY.L,equity,ftse100,Personal goods,Burberry Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+BREE.L,equity,ftse250,Construction & Materials,Breedon Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+BRGE.L,equity,ftse250,Investment Trusts,BlackRock Greater Europe Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BRSC.L,equity,ftse250,Investment Trusts,BlackRock Smaller Companies Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BRWM.L,equity,ftse250,Investment Trusts,BlackRock World Mining Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BT-A.L,equity,ftse100,Telecommunications services,BT Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+BTRW.L,equity,ftse100,Household goods & home construction,Barratt Redrow,https://en.wikipedia.org/wiki/FTSE_100_Index
+BUT.L,equity,ftse250,Investment Trusts,Brunner Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+BWY.L,equity,ftse250,Home Construction,Bellway,https://en.wikipedia.org/wiki/FTSE_250_Index
+BYG.L,equity,ftse250,Real Estate Investment Trusts,Big Yellow Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+BYIT.L,equity,ftse250,Aerospace & Defence,Bytes Technology Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CBG.L,equity,ftse250,Financial Services,Close Brothers Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CCC.L,equity,ftse100,Software & Computer Services,Computacenter,https://en.wikipedia.org/wiki/FTSE_100_Index
+CCEP.L,equity,ftse100,Beverages,Coca-Cola Europacific Partners,https://en.wikipedia.org/wiki/FTSE_100_Index
+CCH.L,equity,ftse100,Beverages,Coca-Cola HBC,https://en.wikipedia.org/wiki/FTSE_100_Index
+CGT.L,equity,ftse250,Investment Trusts,Capital Gearing Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+CHG.L,equity,ftse250,Aerospace & Defence,Chemring Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CKN.L,equity,ftse250,Industrial Transportation,Clarkson,https://en.wikipedia.org/wiki/FTSE_250_Index
+CLDN.L,equity,ftse250,Investment Trusts,Caledonia Investments,https://en.wikipedia.org/wiki/FTSE_250_Index
+CMCX.L,equity,ftse250,Financial Services,CMC Markets,https://en.wikipedia.org/wiki/FTSE_250_Index
+CNA.L,equity,ftse100,Multiline utilities,Centrica,https://en.wikipedia.org/wiki/FTSE_100_Index
+COA.L,equity,ftse250,Consumer Staples,Coats Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CORD.L,equity,ftse250,Investment Trusts,Cordiant Digital Infrastructure,https://en.wikipedia.org/wiki/FTSE_250_Index
+COST.L,equity,ftse250,Engineering and Construction,Costain Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CPG.L,equity,ftse100,Support services,Compass Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+CRDA.L,equity,ftse100,Chemicals,Croda International,https://en.wikipedia.org/wiki/FTSE_100_Index
+CSN.L,equity,ftse250,Life Insurance,Chesnara,https://en.wikipedia.org/wiki/FTSE_250_Index
+CTEC.L,equity,ftse100,Health care equipment & supplies,Convatec,https://en.wikipedia.org/wiki/FTSE_100_Index
+CTY.L,equity,ftse250,Investment Trusts,City of London Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+CURY.L,equity,ftse250,Retailers,Currys,https://en.wikipedia.org/wiki/FTSE_250_Index
+CVSG.L,equity,ftse250,Health Care,CVS Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+CWK.L,equity,ftse250,Food Producers,Cranswick,https://en.wikipedia.org/wiki/FTSE_250_Index
+CWR.L,equity,ftse250,Alternative Energy,Ceres Power,https://en.wikipedia.org/wiki/FTSE_250_Index
+DATA.L,equity,ftse250,Industrial Goods and Services,GlobalData,https://en.wikipedia.org/wiki/FTSE_250_Index
+DCC.L,equity,ftse100,Support services,DCC Energy,https://en.wikipedia.org/wiki/FTSE_100_Index
+DGE.L,equity,ftse100,Beverages,Diageo,https://en.wikipedia.org/wiki/FTSE_100_Index
+DLN.L,equity,ftse250,Real Estate Investment Trusts,Derwent London,https://en.wikipedia.org/wiki/FTSE_250_Index
+DNLM.L,equity,ftse250,Retailers,Dunelm Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+DOCS.L,equity,ftse250,Retailers,Dr. Martens,https://en.wikipedia.org/wiki/FTSE_250_Index
+DOM.L,equity,ftse250,Travel & Leisure,Domino's Pizza,https://en.wikipedia.org/wiki/FTSE_250_Index
+DPLM.L,equity,ftse100,Industrial Support services,Diploma,https://en.wikipedia.org/wiki/FTSE_100_Index
+DRX.L,equity,ftse250,Electricity,Drax Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+DSCV.L,equity,ftse250,Support Services,discoverIE,https://en.wikipedia.org/wiki/FTSE_250_Index
+EDIN.L,equity,ftse250,Investment Trusts,Edinburgh Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+EDV.L,equity,ftse100,Mining,Endeavour Mining,https://en.wikipedia.org/wiki/FTSE_100_Index
+ELM.L,equity,ftse250,Chemicals,Elementis,https://en.wikipedia.org/wiki/FTSE_250_Index
+EMG.L,equity,ftse250,Investment Trusts,Man Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+ENOG.L,equity,ftse250,Oil & Gas Producers,Energean,https://en.wikipedia.org/wiki/FTSE_250_Index
+ENT.L,equity,ftse100,Travel & leisure,Entain,https://en.wikipedia.org/wiki/FTSE_100_Index
+ESCT.L,equity,ftse250,Investment Trusts,European Smaller Companies Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+EWG.L,equity,ftse250,Financial Services,Eurowag,https://en.wikipedia.org/wiki/FTSE_250_Index
+EWI.L,equity,ftse250,Investment Trusts,Edinburgh Worldwide Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+EXPN.L,equity,ftse100,Support services,Experian,https://en.wikipedia.org/wiki/FTSE_100_Index
+EZJ.L,equity,ftse250,Travel and Leisure,EasyJet,https://en.wikipedia.org/wiki/FTSE_250_Index
+FAN.L,equity,ftse250,Construction & Materials,Volution Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+FCH.L,equity,ftse250,Financial Services,Funding Circle,https://en.wikipedia.org/wiki/FTSE_250_Index
+FCIT.L,equity,ftse100,Collective investments,F & C Investment Trust,https://en.wikipedia.org/wiki/FTSE_100_Index
+FCSS.L,equity,ftse250,Investment Trusts,Fidelity China Special Situations,https://en.wikipedia.org/wiki/FTSE_250_Index
+FEML.L,equity,ftse250,Investment Trusts,Fidelity Emerging Markets,https://en.wikipedia.org/wiki/FTSE_250_Index
+FEV.L,equity,ftse250,Investment Trusts,Fidelity European Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+FGEN.L,equity,ftse250,Investment Trusts,Foresight Environmental Infrastructure,https://en.wikipedia.org/wiki/FTSE_250_Index
+FGP.L,equity,ftse250,Travel & Leisure,FirstGroup,https://en.wikipedia.org/wiki/FTSE_250_Index
+FGT.L,equity,ftse250,Equity Investments,Finsbury Growth & Income Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+FOUR.L,equity,ftse250,Media,4imprint,https://en.wikipedia.org/wiki/FTSE_250_Index
+FRAS.L,equity,ftse250,Retailers,Frasers Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+FRES.L,equity,ftse100,Mining,Fresnillo plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+FSG.L,equity,ftse250,Investment Banking and Brokerage Services,Foresight Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+FSV.L,equity,ftse250,Investment Trusts,Fidelity Special Values,https://en.wikipedia.org/wiki/FTSE_250_Index
+GAMA.L,equity,ftse250,Telecommunications,Gamma Communications,https://en.wikipedia.org/wiki/FTSE_250_Index
+GAW.L,equity,ftse100,Leisure Goods,Games Workshop,https://en.wikipedia.org/wiki/FTSE_100_Index
+GBG.L,equity,ftse250,Software and Computer Services,GB Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+GCP.L,equity,ftse250,General Financial,GCP Infrastructure Investments,https://en.wikipedia.org/wiki/FTSE_250_Index
+GDWN.L,equity,ftse250,General Industrials,Goodwin,https://en.wikipedia.org/wiki/FTSE_250_Index
+GEN.L,equity,ftse250,Construction & Materials,Genuit Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+GFRD.L,equity,ftse250,Construction,Galliford Try,https://en.wikipedia.org/wiki/FTSE_250_Index
+GFTU.L,equity,ftse250,Support Services,Grafton Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+GLEN.L,equity,ftse100,Mining,Glencore,https://en.wikipedia.org/wiki/FTSE_100_Index
+GNC.L,equity,ftse250,"Food, Beverage and Tobacco",Greencore,https://en.wikipedia.org/wiki/FTSE_250_Index
+GNS.L,equity,ftse250,Pharmaceuticals & Biotechnology,Genus,https://en.wikipedia.org/wiki/FTSE_250_Index
+GPE.L,equity,ftse250,Real Estate Investment Trusts,Great Portland Estates,https://en.wikipedia.org/wiki/FTSE_250_Index
+GRG.L,equity,ftse250,Food & Drug Retailers,Greggs,https://en.wikipedia.org/wiki/FTSE_250_Index
+GRI.L,equity,ftse250,Real Estate Investment & Services,Grainger,https://en.wikipedia.org/wiki/FTSE_250_Index
+GROW.L,equity,ftse250,Financial Services,Molten Ventures,https://en.wikipedia.org/wiki/FTSE_250_Index
+GSCT.L,equity,ftse250,Investment Trusts,Global Smaller Companies Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+GSK.L,equity,ftse100,Pharmaceuticals & biotechnology,GSK plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+HANA.L,equity,ftse250,Investment Trusts,Hansa Investment Company,https://en.wikipedia.org/wiki/FTSE_250_Index
+HAS.L,equity,ftse250,Support Services,Hays,https://en.wikipedia.org/wiki/FTSE_250_Index
+HBR.L,equity,ftse250,Oil & Gas Producers,Harbour Energy,https://en.wikipedia.org/wiki/FTSE_250_Index
+HFD.L,equity,ftse250,Retailers,Halfords,https://en.wikipedia.org/wiki/FTSE_250_Index
+HFEL.L,equity,ftse250,Investment Trusts,Henderson Far East Income,https://en.wikipedia.org/wiki/FTSE_250_Index
+HFG.L,equity,ftse250,Food Producers,Hilton Food Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+HGT.L,equity,ftse250,Investment Trusts,Hg Capital Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+HICL.L,equity,ftse250,Investment Trusts,HICL Infrastructure Company,https://en.wikipedia.org/wiki/FTSE_250_Index
+HIK.L,equity,ftse250,Pharmaceuticals and Biotechnology,Hikma Pharmaceuticals,https://en.wikipedia.org/wiki/FTSE_250_Index
+HILS.L,equity,ftse250,Industrial Engineering,Hill & Smith,https://en.wikipedia.org/wiki/FTSE_250_Index
+HLMA.L,equity,ftse100,Electronic equipment & parts,Halma plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+HLN.L,equity,ftse100,Pharmaceuticals & biotechnology,Haleon,https://en.wikipedia.org/wiki/FTSE_100_Index
+HMSO.L,equity,ftse250,Real Estate Investment Trusts,Hammerson,https://en.wikipedia.org/wiki/FTSE_250_Index
+HOC.L,equity,ftse250,Basic Resources,Hochschild Mining,https://en.wikipedia.org/wiki/FTSE_250_Index
+HRI.L,equity,ftse250,Investment Trusts,Herald Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+HSBA.L,equity,ftse100,Banks,HSBC,https://en.wikipedia.org/wiki/FTSE_100_Index
+HSL.L,equity,ftse250,Investment Trusts,Henderson Smaller Companies Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+HSX.L,equity,ftse100,Non-life Insurance,Hiscox,https://en.wikipedia.org/wiki/FTSE_100_Index
+HTG.L,equity,ftse250,"Oil, Gas and Coal",Hunting,https://en.wikipedia.org/wiki/FTSE_250_Index
+HTWS.L,equity,ftse250,Telecomms,Helios Towers,https://en.wikipedia.org/wiki/FTSE_250_Index
+HVPE.L,equity,ftse250,Equity Investments,HarbourVest Global Private Equity,https://en.wikipedia.org/wiki/FTSE_250_Index
+HWDN.L,equity,ftse100,Homebuilding & construction supplies,Howdens Joinery,https://en.wikipedia.org/wiki/FTSE_100_Index
+HWG.L,equity,ftse250,Real Estate,Harworth Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+IAD.L,equity,ftse250,Investment Trusts,Invesco Asia Dragon Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+IAG.L,equity,ftse100,Travel & leisure,International Airlines Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+ICG.L,equity,ftse100,Financial services,ICG,https://en.wikipedia.org/wiki/FTSE_100_Index
+ICGT.L,equity,ftse250,Investment Trusts,ICG Enterprise Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+IGG.L,equity,ftse100,Financial services,IG Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+IHG.L,equity,ftse100,Travel & leisure,IHG Hotels & Resorts,https://en.wikipedia.org/wiki/FTSE_100_Index
+IHP.L,equity,ftse250,Financial Services,IntegraFin Holdings,https://en.wikipedia.org/wiki/FTSE_250_Index
+III.L,equity,ftse100,Financial services,3i,https://en.wikipedia.org/wiki/FTSE_100_Index
+IMB.L,equity,ftse100,Tobacco,Imperial Brands,https://en.wikipedia.org/wiki/FTSE_100_Index
+IMI.L,equity,ftse100,Industrial engineering,IMI,https://en.wikipedia.org/wiki/FTSE_100_Index
+INCH.L,equity,ftse250,Retailers,Inchcape,https://en.wikipedia.org/wiki/FTSE_250_Index
+INF.L,equity,ftse100,Media,Informa,https://en.wikipedia.org/wiki/FTSE_100_Index
+INPP.L,equity,ftse250,Financial Services,International Public Partnerships,https://en.wikipedia.org/wiki/FTSE_250_Index
+INVP.L,equity,ftse100,Financial Services,Investec,https://en.wikipedia.org/wiki/FTSE_100_Index
+IPO.L,equity,ftse250,Financial Services,IP Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+ITH.L,equity,ftse250,Oil & Gas Producers,Ithaca Energy,https://en.wikipedia.org/wiki/FTSE_250_Index
+ITRK.L,equity,ftse100,Support services,Intertek,https://en.wikipedia.org/wiki/FTSE_100_Index
+ITV.L,equity,ftse250,Media,ITV,https://en.wikipedia.org/wiki/FTSE_250_Index
+IWG.L,equity,ftse250,Support Services,International Workplace Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+JAM.L,equity,ftse250,Investment Trusts,JPMorgan American Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+JCH.L,equity,ftse250,Investment Trusts,JPMorgan Claverhouse Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+JD.L,equity,ftse100,General retailers,JD Sports,https://en.wikipedia.org/wiki/FTSE_100_Index
+JDW.L,equity,ftse250,Travel & Leisure,Wetherspoons,https://en.wikipedia.org/wiki/FTSE_250_Index
+JEDT.L,equity,ftse250,Investment Trusts,JPMorgan European Discovery,https://en.wikipedia.org/wiki/FTSE_250_Index
+JEGI.L,equity,ftse250,Investment Trusts,JPMorgan European Growth & Income,https://en.wikipedia.org/wiki/FTSE_250_Index
+JEMI.L,equity,ftse250,Investment Trusts,JPMorgan Emerging Markets Dividend Income,https://en.wikipedia.org/wiki/FTSE_250_Index
+JFJ.L,equity,ftse250,Investment Trusts,JPMorgan Japanese Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+JGGI.L,equity,ftse250,Investment Trusts,JPMorgan Global Growth & Income,https://en.wikipedia.org/wiki/FTSE_250_Index
+JMAT.L,equity,ftse250,Chemicals,Johnson Matthey,https://en.wikipedia.org/wiki/FTSE_250_Index
+JMGI.L,equity,ftse250,Investment Trusts,JPMorgan Emerging Markets Growth & Income,https://en.wikipedia.org/wiki/FTSE_250_Index
+JSG.L,equity,ftse250,Industrial Support Services,Johnson Service Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+JTC.L,equity,ftse250,Financial Services,JTC,https://en.wikipedia.org/wiki/FTSE_250_Index
+JUP.L,equity,ftse250,Financial Services,Jupiter Fund Management,https://en.wikipedia.org/wiki/FTSE_250_Index
+KGF.L,equity,ftse100,Retailers,Kingfisher plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+KIE.L,equity,ftse250,Construction & Materials,Kier Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+KLR.L,equity,ftse250,Construction & Materials,Keller Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+KNOS.L,equity,ftse250,Software & Computer Services,Kainos,https://en.wikipedia.org/wiki/FTSE_250_Index
+LAND.L,equity,ftse100,Real estate investment trusts,Land Securities,https://en.wikipedia.org/wiki/FTSE_100_Index
+LGEN.L,equity,ftse100,Life insurance,Legal & General,https://en.wikipedia.org/wiki/FTSE_100_Index
+LLOY.L,equity,ftse100,Banks,Lloyds Banking Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+LMP.L,equity,ftse100,Real Estate Investment Trusts,LondonMetric Property,https://en.wikipedia.org/wiki/FTSE_100_Index
+LRE.L,equity,ftse250,Nonlife Insurance,Lancashire Holdings,https://en.wikipedia.org/wiki/FTSE_250_Index
+LSEG.L,equity,ftse100,Financial services,London Stock Exchange Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+LWDB.L,equity,ftse250,Investment Trusts,Law Debenture,https://en.wikipedia.org/wiki/FTSE_250_Index
+MAB.L,equity,ftse250,Travel & Leisure,Mitchells & Butlers,https://en.wikipedia.org/wiki/FTSE_250_Index
+MEGP.L,equity,ftse250,Leisure Goods,ME Group International,https://en.wikipedia.org/wiki/FTSE_250_Index
+MGAM.L,equity,ftse250,Electronic & Electrical Equipment,Morgan Advanced Materials,https://en.wikipedia.org/wiki/FTSE_250_Index
+MGNS.L,equity,ftse250,Construction & Materials,Morgan Sindall Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+MKS.L,equity,ftse100,Food & drug retailing,Marks & Spencer,https://en.wikipedia.org/wiki/FTSE_100_Index
+MNDI.L,equity,ftse250,Containers & packaging,Mondi,https://en.wikipedia.org/wiki/FTSE_250_Index
+MNG.L,equity,ftse100,Financial services,M&G,https://en.wikipedia.org/wiki/FTSE_100_Index
+MNKS.L,equity,ftse250,Investment Trusts,Monks Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+MNTN.L,equity,ftse250,Investment Trusts,Schiehallion Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+MONY.L,equity,ftse250,Media,MONY Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+MOON.L,equity,ftse250,Retailers,Moonpig,https://en.wikipedia.org/wiki/FTSE_250_Index
+MRC.L,equity,ftse250,Collective Investments,Mercantile Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+MRCH.L,equity,ftse250,Investment Trusts,Merchants Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+MRO.L,equity,ftse100,Aerospace & defence,Melrose Industries,https://en.wikipedia.org/wiki/FTSE_100_Index
+MTLN.L,equity,ftse100,Multiline utilities,Metlen Energy & Metals,https://en.wikipedia.org/wiki/FTSE_100_Index
+MTO.L,equity,ftse250,Support Services,Mitie,https://en.wikipedia.org/wiki/FTSE_250_Index
+MTRO.L,equity,ftse250,Banks,Metro Bank,https://en.wikipedia.org/wiki/FTSE_250_Index
+MUT.L,equity,ftse250,Investment Trusts,Murray Income Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+MYI.L,equity,ftse250,Investment Trusts,Murray International Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+N91.L,equity,ftse250,Financial Services,Ninety One,https://en.wikipedia.org/wiki/FTSE_250_Index
+NAS.L,equity,ftse250,Investment Trusts,North Atlantic Smaller Companies Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+NBPE.L,equity,ftse250,Collective Investments,NB Private Equity Partners,https://en.wikipedia.org/wiki/FTSE_250_Index
+NCC.L,equity,ftse250,Software and Computer Services,NCC Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+NG.L,equity,ftse100,Multiline utilities,National Grid plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+NWG.L,equity,ftse100,Banks,NatWest Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+NXT.L,equity,ftse100,General retailers,Next plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+OCDO.L,equity,ftse250,Food & drug retailers,Ocado Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+OCI.L,equity,ftse250,Investment Trusts,Oakley Capital Investments,https://en.wikipedia.org/wiki/FTSE_250_Index
+ONT.L,equity,ftse250,Health Care,Oxford Nanopore Technologies,https://en.wikipedia.org/wiki/FTSE_250_Index
+OSB.L,equity,ftse250,Banks,OSB Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+OXB.L,equity,ftse250,Pharmaceuticals and Biotechnology,Oxford Biomedica,https://en.wikipedia.org/wiki/FTSE_250_Index
+OXIG.L,equity,ftse250,Electronic & Electrical Equipment,Oxford Instruments,https://en.wikipedia.org/wiki/FTSE_250_Index
+PAF.L,equity,ftse250,Precious Metals and Mining,Pan African Resources,https://en.wikipedia.org/wiki/FTSE_250_Index
+PAG.L,equity,ftse250,Financial Services,Paragon Banking Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+PAGE.L,equity,ftse250,Support Services,PageGroup,https://en.wikipedia.org/wiki/FTSE_250_Index
+PCGH.L,equity,ftse250,Investment Trusts,Polar Capital Global Healthcare Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+PCT.L,equity,ftse100,Investment trusts,Polar Capital Technology Trust,https://en.wikipedia.org/wiki/FTSE_100_Index
+PETS.L,equity,ftse250,Retailers,Pets at Home,https://en.wikipedia.org/wiki/FTSE_250_Index
+PEY.L,equity,ftse250,Investment Trusts,Partners Group Private Equity,https://en.wikipedia.org/wiki/FTSE_250_Index
+PFD.L,equity,ftse250,Food & Drug Retailers,Premier Foods,https://en.wikipedia.org/wiki/FTSE_250_Index
+PHI.L,equity,ftse250,Investment Trusts,Pacific Horizon Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+PHP.L,equity,ftse250,Real Estate Investment Trusts,Primary Health Properties,https://en.wikipedia.org/wiki/FTSE_250_Index
+PIN.L,equity,ftse250,Equity Investments,Pantheon International,https://en.wikipedia.org/wiki/FTSE_250_Index
+PINT.L,equity,ftse250,Investment Trusts,Pantheon Infrastructure,https://en.wikipedia.org/wiki/FTSE_250_Index
+PLUS.L,equity,ftse250,Financial Services,Plus500,https://en.wikipedia.org/wiki/FTSE_250_Index
+PNL.L,equity,ftse250,Investment Trusts,Personal Assets Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+PNN.L,equity,ftse250,"Gas, Water & Multiutilities",Pennon Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+POLN.L,equity,ftse250,Financial Services,Pollen Street Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+PPET.L,equity,ftse250,Financial Services,Patria Private Equity Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+PPH.L,equity,ftse250,Travel and Leisure,PPHE Hotel Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+PRN.L,equity,ftse250,Food and drink,Princes Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+PRU.L,equity,ftse100,Life insurance,Prudential plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+PSH.L,equity,ftse100,Financial services,Pershing Square Holdings,https://en.wikipedia.org/wiki/FTSE_100_Index
+PSN.L,equity,ftse100,Household goods & home construction,Persimmon,https://en.wikipedia.org/wiki/FTSE_100_Index
+PSON.L,equity,ftse100,Media,Pearson plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+PTEC.L,equity,ftse250,Software & Computer Services,Playtech,https://en.wikipedia.org/wiki/FTSE_250_Index
+QLT.L,equity,ftse250,Financial Services,Quilter,https://en.wikipedia.org/wiki/FTSE_250_Index
+QQ.L,equity,ftse250,Aerospace & Defence,Qinetiq,https://en.wikipedia.org/wiki/FTSE_250_Index
+RAT.L,equity,ftse250,Financial Services,Rathbones,https://en.wikipedia.org/wiki/FTSE_250_Index
+RCP.L,equity,ftse250,Investment Trusts,RIT Capital Partners,https://en.wikipedia.org/wiki/FTSE_250_Index
+REL.L,equity,ftse100,Media,RELX,https://en.wikipedia.org/wiki/FTSE_100_Index
+RHIM.L,equity,ftse250,Support Services,RHI Magnesita,https://en.wikipedia.org/wiki/FTSE_250_Index
+RICA.L,equity,ftse250,Investment Trusts,Ruffer Investment Company,https://en.wikipedia.org/wiki/FTSE_250_Index
+RIO.L,equity,ftse100,Mining,Rio Tinto,https://en.wikipedia.org/wiki/FTSE_100_Index
+RKT.L,equity,ftse100,Household goods & home construction,Reckitt,https://en.wikipedia.org/wiki/FTSE_100_Index
+RMV.L,equity,ftse250,Media,Rightmove,https://en.wikipedia.org/wiki/FTSE_250_Index
+RNK.L,equity,ftse250,Travel and Leisure,Rank Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+ROR.L,equity,ftse250,Industrial Engineering,Rotork,https://en.wikipedia.org/wiki/FTSE_250_Index
+ROSE.L,equity,ftse250,Industrial Goods and Services,Rosebank Industries,https://en.wikipedia.org/wiki/FTSE_250_Index
+RPI.L,equity,ftse250,Technology,Raspberry Pi Holdings,https://en.wikipedia.org/wiki/FTSE_250_Index
+RR.L,equity,ftse100,Aerospace & defence,Rolls-Royce Holdings,https://en.wikipedia.org/wiki/FTSE_100_Index
+RS1.L,equity,ftse250,Industrials,RS Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+RSW.L,equity,ftse250,Electronic & Electrical Equipment,Renishaw,https://en.wikipedia.org/wiki/FTSE_250_Index
+RTO.L,equity,ftse100,Support services,Rentokil Initial,https://en.wikipedia.org/wiki/FTSE_100_Index
+RTW.L,equity,ftse250,Investment Trusts,RTW Biotech Opportunities,https://en.wikipedia.org/wiki/FTSE_250_Index
+SAFE.L,equity,ftse250,Real Estate Investment Trusts,Safestore,https://en.wikipedia.org/wiki/FTSE_250_Index
+SAGA.L,equity,ftse250,Travel and Leisure,Saga,https://en.wikipedia.org/wiki/FTSE_250_Index
+SAIN.L,equity,ftse250,Investment Trusts,Scottish American Investment Company,https://en.wikipedia.org/wiki/FTSE_250_Index
+SBRY.L,equity,ftse100,Food & drug retailing,Sainsbury's,https://en.wikipedia.org/wiki/FTSE_100_Index
+SCT.L,equity,ftse250,Software & Computer Services,Softcat,https://en.wikipedia.org/wiki/FTSE_250_Index
+SDLF.L,equity,ftse100,Life insurance,Standard Life,https://en.wikipedia.org/wiki/FTSE_100_Index
+SDP.L,equity,ftse250,Investment Trusts,Schroder AsiaPacific Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+SDR.L,equity,ftse100,Financial services,Schroders,https://en.wikipedia.org/wiki/FTSE_100_Index
+SEIT.L,equity,ftse250,Energy,SDCL Efficiency Income Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+SEQI.L,equity,ftse250,Financial Services,Sequoia Economic Infrastructure Income Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+SGE.L,equity,ftse100,Software & computer services,Sage Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+SGRO.L,equity,ftse100,Real estate investment trusts,Segro,https://en.wikipedia.org/wiki/FTSE_100_Index
+SHAW.L,equity,ftse250,Banking,Shawbrook Bank,https://en.wikipedia.org/wiki/FTSE_250_Index
+SHC.L,equity,ftse250,Real Estate Investment Trusts,Shaftesbury Capital,https://en.wikipedia.org/wiki/FTSE_250_Index
+SHEL.L,equity,ftse100,Oil & gas producers,Shell plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+SMIN.L,equity,ftse100,General industrials,Smiths Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+SMT.L,equity,ftse100,Collective investments,Scottish Mortgage Investment Trust,https://en.wikipedia.org/wiki/FTSE_100_Index
+SMWH.L,equity,ftse250,Retailers,WHSmith,https://en.wikipedia.org/wiki/FTSE_250_Index
+SN.L,equity,ftse100,Health care equipment & supplies,Smith & Nephew,https://en.wikipedia.org/wiki/FTSE_100_Index
+SNR.L,equity,ftse250,Aerospace & Defence,Senior,https://en.wikipedia.org/wiki/FTSE_250_Index
+SOI.L,equity,ftse250,Financial Services,Schroder Oriental Income Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+SPI.L,equity,ftse250,Health Care Equipment & Services,Spire Healthcare,https://en.wikipedia.org/wiki/FTSE_250_Index
+SPX.L,equity,ftse100,Industrial engineering,Spirax Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+SRE.L,equity,ftse250,Real Estate,Sirius Real Estate,https://en.wikipedia.org/wiki/FTSE_250_Index
+SRP.L,equity,ftse250,Support Services,Serco,https://en.wikipedia.org/wiki/FTSE_250_Index
+SSE.L,equity,ftse100,Electrical utilities & independent power producers,SSE plc,https://en.wikipedia.org/wiki/FTSE_100_Index
+SSIT.L,equity,ftse250,Investment Trusts,Seraphim Space Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+SSPG.L,equity,ftse250,Retailers,SSP Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+STAN.L,equity,ftse100,Banks,Standard Chartered,https://en.wikipedia.org/wiki/FTSE_100_Index
+STJ.L,equity,ftse100,Financial services,St. James's Place,https://en.wikipedia.org/wiki/FTSE_100_Index
+SUPR.L,equity,ftse250,Real Estate Investment Trusts,Supermarket Income REIT,https://en.wikipedia.org/wiki/FTSE_250_Index
+SVS.L,equity,ftse250,Real Estate Investment & Services,Savills,https://en.wikipedia.org/wiki/FTSE_250_Index
+SVT.L,equity,ftse100,Multiline utilities,Severn Trent,https://en.wikipedia.org/wiki/FTSE_100_Index
+SYNC.L,equity,ftse250,Pharmaceuticals & Biotechnology,Syncona,https://en.wikipedia.org/wiki/FTSE_250_Index
+TATE.L,equity,ftse250,Food Producers,Tate & Lyle,https://en.wikipedia.org/wiki/FTSE_250_Index
+TBCG.L,equity,ftse250,Banks,TBC Bank,https://en.wikipedia.org/wiki/FTSE_250_Index
+TCAP.L,equity,ftse250,Support Services,TP ICAP,https://en.wikipedia.org/wiki/FTSE_250_Index
+TEM.L,equity,ftse250,Investment Trusts,Templeton Emerging Markets Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+TEP.L,equity,ftse250,Telecomms,Telecom Plus,https://en.wikipedia.org/wiki/FTSE_250_Index
+TFIF.L,equity,ftse250,Investment Trusts,Twentyfour Income Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+THG.L,equity,ftse250,Personal Products,THG,https://en.wikipedia.org/wiki/FTSE_250_Index
+THRL.L,equity,ftse250,Real Estate Investment Trusts,Target Healthcare REIT,https://en.wikipedia.org/wiki/FTSE_250_Index
+TMPL.L,equity,ftse250,Collective Investments,Temple Bar Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+TPK.L,equity,ftse250,Support Services,Travis Perkins,https://en.wikipedia.org/wiki/FTSE_250_Index
+TRIG.L,equity,ftse250,Investment Trusts,The Renewables Infrastructure Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+TRN.L,equity,ftse250,Industrial Transportation,Trainline,https://en.wikipedia.org/wiki/FTSE_250_Index
+TRST.L,equity,ftse250,Technology,Trustpilot,https://en.wikipedia.org/wiki/FTSE_250_Index
+TRY.L,equity,ftse250,Investment Trusts,TR Property Investment Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+TSCO.L,equity,ftse100,Food & drug retailing,Tesco,https://en.wikipedia.org/wiki/FTSE_100_Index
+TW.L,equity,ftse250,Household goods & home construction,Taylor Wimpey,https://en.wikipedia.org/wiki/FTSE_250_Index
+UEM.L,equity,ftse250,Investment Trusts,Utilico Emerging Markets,https://en.wikipedia.org/wiki/FTSE_250_Index
+UKW.L,equity,ftse250,"Gas, Water & Multiutilities",Greencoat UK Wind,https://en.wikipedia.org/wiki/FTSE_250_Index
+ULVR.L,equity,ftse100,Personal goods,Unilever,https://en.wikipedia.org/wiki/FTSE_100_Index
+USA.L,equity,ftse250,Investment Trusts,Baillie Gifford US Growth Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+UTG.L,equity,ftse250,Real estate investment trusts,Unite Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+UU.L,equity,ftse100,Multiline utilities,United Utilities,https://en.wikipedia.org/wiki/FTSE_100_Index
+VCT.L,equity,ftse250,Chemicals,Victrex,https://en.wikipedia.org/wiki/FTSE_250_Index
+VEIL.L,equity,ftse250,General Financial,Vietnam Enterprise Investments,https://en.wikipedia.org/wiki/FTSE_250_Index
+VOD.L,equity,ftse100,Mobile telecommunications,Vodafone Group,https://en.wikipedia.org/wiki/FTSE_100_Index
+VOF.L,equity,ftse250,General Financial,VinaCapital Vietnam Opportunity Fund,https://en.wikipedia.org/wiki/FTSE_250_Index
+VSVS.L,equity,ftse250,General Industrials,Vesuvius,https://en.wikipedia.org/wiki/FTSE_250_Index
+VTY.L,equity,ftse250,Home Construction,Vistry Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+WEIR.L,equity,ftse100,Industrial goods and services,Weir,https://en.wikipedia.org/wiki/FTSE_100_Index
+WIX.L,equity,ftse250,Retailers,Wickes,https://en.wikipedia.org/wiki/FTSE_250_Index
+WIZZ.L,equity,ftse250,Travel & Leisure,Wizz Air,https://en.wikipedia.org/wiki/FTSE_250_Index
+WKP.L,equity,ftse250,Real Estate Investment Trusts,Workspace Group,https://en.wikipedia.org/wiki/FTSE_250_Index
+WOSG.L,equity,ftse250,Personal Goods,Watches of Switzerland,https://en.wikipedia.org/wiki/FTSE_250_Index
+WPP.L,equity,ftse250,Media,WPP,https://en.wikipedia.org/wiki/FTSE_250_Index
+WTB.L,equity,ftse100,Retail hospitality,Whitbread,https://en.wikipedia.org/wiki/FTSE_100_Index
+WWH.L,equity,ftse250,Investment Trusts,Worldwide Healthcare Trust,https://en.wikipedia.org/wiki/FTSE_250_Index
+XPP.L,equity,ftse250,Industrial Goods and Services,XP Power,https://en.wikipedia.org/wiki/FTSE_250_Index
+XPS.L,equity,ftse250,Financial Services,XPS Pensions,https://en.wikipedia.org/wiki/FTSE_250_Index
+ZIG.L,equity,ftse250,Support Services,Zigup,https://en.wikipedia.org/wiki/FTSE_250_Index
