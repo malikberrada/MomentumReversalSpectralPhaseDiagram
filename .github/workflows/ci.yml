@@ -42,6 +42,6 @@ jobs:
       - name: Install main package
         run: python -m pip install -U pip && python -m pip install -e ".[dev]"
       - name: Build optional native CPU backend
-        run: MRSPD_NATIVE_CUDA=0 python -m pip install ./native --no-build-isolation
+        run: MRSPD_NATIVE_CUDA=0 python -m pip install ./native
       - name: Native equivalence test
         run: python -m pytest -q tests/test_native_equivalence.py
